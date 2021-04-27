@@ -10,16 +10,22 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "express-validator": "^6.10.1",
+    "fast-json-patch": "^3.0.0-1",
+    "image-thumbnail": "^1.0.13",
+    "jimp": "^0.16.1",
+    "jsonpatch": "^3.0.1",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.12.5",
     "multer": "^1.4.2",
     "nodemon": "^2.0.7",
+    "rfc6902": "^4.0.2",
     "sharp": "^0.28.1"
   }
 }
